@@ -1,0 +1,28 @@
+body{
+  background-color: rgb( 1, 66, 64 );
+  color: white;
+}
+a{
+  color: white;
+}
+a:hover{
+  color: red;
+}
+nav{
+  border: solid;
+  padding: 1em;
+  background-color: rgb( 246, 158, 255 );
+}
+nav a{
+  text-decoration: none;
+}
+ol{
+  list-style-type: lower-alpha;
+}
+div{
+  overflow: hidden;
+}
+img{
+  width: 20%;
+  height: 20%;
+}
